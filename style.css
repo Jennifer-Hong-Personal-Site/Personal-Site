@@ -38,19 +38,21 @@ li {
     background-color: #202020;
 }
 
-/* Home page */
-.intro, .poem {
+/* Layouts*/
+.intro, .poem, .interest {
     color: #E89E9E;
     margin: auto;
+    margin-bottom: 2%;
     width: 50%;
     border-radius: 25px;
     background-color: #32302F;
     border: 3px solid #458588;
-    padding: 5px;
+    padding: 15px;
   }
 
 h2 {
     text-align: center;
+    color: #E89E9E;
 }
 
 img {
@@ -60,7 +62,7 @@ img {
     margin-bottom: 5%;
 }
 
+/* Details */
 .poem {
     text-align: center;
-    margin-top: 2%;
 }
