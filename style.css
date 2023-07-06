@@ -10,7 +10,6 @@ body {
     border-radius: 25px;
     margin-top: 1%;
     margin-bottom: 2%;
-    overflow: hidden;
     display: flex;
     justify-content: space-between;
 }
@@ -34,12 +33,12 @@ li {
     font-weight: bold;
 }
 
-.nav li a:hover, .name li:hover {
-    background-color: #202020;
+.nav li a:hover {
+    color: #458588;
 }
 
 /* Layouts*/
-.intro, .poem, .interest, .project{
+.intro, .poem, .interest, .project {
     color: #E89E9E;
     margin: auto;
     margin-bottom: 2%;
