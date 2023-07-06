@@ -39,7 +39,7 @@ li {
 }
 
 /* Layouts*/
-.intro, .poem, .interest {
+.intro, .poem, .interest, .project{
     color: #E89E9E;
     margin: auto;
     margin-bottom: 2%;
